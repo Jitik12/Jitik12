@@ -1,6 +1,6 @@
-### hey, i'm armaan 👋
+### Hey, I'm Armaan 👋
 
-<sub><code>building things from scratch · breaking them · figuring out why</code></sub>
+<code>building things from scratch · breaking them · figuring out why</code>
 
 <br>
 
@@ -12,9 +12,9 @@
 
 #### `~/about`
 
-- cs grad from iit hyderabad, class of '26.
-- quant researcher by day: ml-driven trading strategies, and how alpha is found and how it decays.
-- on the systems side: gpu kernel analysis and compiler-level optimisation, mostly around cuda and llvm.
+- CS grad from IIT Hyderabad, Batch of '26.
+- Quant Researcher by day: ML-driven trading strategies, and how alpha is found and how it decays.
+- On the systems side: GPU kernel analysis and compiler-level optimisation, mostly around CUDA and LLVM.
 - happiest building something from first principles just to see how it really works.
 
 #### `~/projects`
@@ -40,7 +40,7 @@
   <img alt="c++ · python · rust · pytorch · linux · docker" src="https://skillicons.dev/icons?i=cpp%2Cpy%2Crust%2Cpytorch%2Clinux%2Cdocker&theme=light&perline=6" height="36">
 </picture>
 
-<sub><code>+ cuda · llvm</code></sub>
+<code>+ cuda · llvm</code>
 
 #### `~/activity`
 
@@ -50,9 +50,9 @@
   <img alt="github stats for Jitik12" src="https://github-readme-stats.vercel.app/api?username=Jitik12&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=656d76&icon_color=2f6f45" height="130">
 </picture>
 
-#### `~/listening`
+<!-- #### `~/listening` -->
 
-<sub><code>♫</code>&nbsp; usually something on loop while the kernels compile. check what's playing on <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">spotify</a>.</sub>
+<!-- <sub><code>♫</code>&nbsp; usually something on loop while the kernels compile. check what's playing on <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">spotify</a>.</sub> -->
 
 <br>
 
