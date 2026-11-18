@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="132" viewBox="0 0 520 132" role="img" aria-label="$ whoami — engineer drawn to systems, intelligence and markets. $ cat ~/.focus — alpha research, gpu kernels, compilers, ml.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; }
+    .p { fill: #7fb38a; } .c { fill: #e6edf3; } .o { fill: #8b949e; }
+  </style>
+  <text x="2" y="22"><tspan class="p">$</tspan><tspan class="c"> whoami</tspan></text>
+  <text x="2" y="46" class="o">engineer drawn to systems, intelligence &amp; markets.</text>
+  <text x="2" y="80"><tspan class="p">$</tspan><tspan class="c"> cat ~/.focus</tspan></text>
+  <text x="2" y="104" class="o">alpha research · gpu kernels · compilers · ml</text>
+  <text x="2" y="128" class="p">$</text>
+  <rect x="20" y="116" width="8" height="15" class="p">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
